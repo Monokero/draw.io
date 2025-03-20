@@ -1,0 +1,102 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.1">
+  <diagram name="第 1 页" id="RhZ9GITMeFinJcavsqx3">
+    <mxGraphModel dx="904" dy="1523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="B1U6UZod1yELh5h2z6GY-1" value="造桥模拟器拆解" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="10" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kGgEO_SU46H8N8yzpL3u-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="B1U6UZod1yELh5h2z6GY-2" target="kGgEO_SU46H8N8yzpL3u-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B1U6UZod1yELh5h2z6GY-2" value="集成工业拆解" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="10" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kGgEO_SU46H8N8yzpL3u-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kGgEO_SU46H8N8yzpL3u-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kGgEO_SU46H8N8yzpL3u-1" value="&lt;div&gt;避免强迫玩&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="10" y="210" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kGgEO_SU46H8N8yzpL3u-2" value="大世界设计拆解？&lt;div&gt;或者&lt;/div&gt;&lt;div&gt;学习笔记？&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="10" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kGgEO_SU46H8N8yzpL3u-3" value="为什么要有多路线&lt;div&gt;开放世界游戏的核心——自由&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="40" y="80" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kGgEO_SU46H8N8yzpL3u-4" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[科技树解锁资源]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;既可以挑战高难基建获得&lt;/div&gt;&lt;div&gt;又可以去探索大世界获得&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="660" y="205" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kGgEO_SU46H8N8yzpL3u-8" value="例&lt;div&gt;为了解锁科技树，我必须去探索世界&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="120" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kGgEO_SU46H8N8yzpL3u-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kGgEO_SU46H8N8yzpL3u-12" target="kGgEO_SU46H8N8yzpL3u-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kGgEO_SU46H8N8yzpL3u-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kGgEO_SU46H8N8yzpL3u-12" target="kGgEO_SU46H8N8yzpL3u-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kGgEO_SU46H8N8yzpL3u-12" value="将强迫玩家转换玩法改为" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="240" y="215" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kGgEO_SU46H8N8yzpL3u-13" value="如何更好的&lt;div&gt;润滑战斗与基建？&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="460" y="-50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kGgEO_SU46H8N8yzpL3u-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kGgEO_SU46H8N8yzpL3u-8" target="kGgEO_SU46H8N8yzpL3u-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kGgEO_SU46H8N8yzpL3u-15" value="基建终局/活动玩法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="260" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kGgEO_SU46H8N8yzpL3u-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="B1U6UZod1yELh5h2z6GY-1" target="kGgEO_SU46H8N8yzpL3u-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kGgEO_SU46H8N8yzpL3u-19" value="A：注意力引导&lt;div&gt;（引力对象掉落）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="500" y="162.5" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kGgEO_SU46H8N8yzpL3u-20" value="B：省钱挑战&lt;div&gt;（测试基建终局玩法）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="500" y="247.5" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kGgEO_SU46H8N8yzpL3u-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kGgEO_SU46H8N8yzpL3u-22" target="kGgEO_SU46H8N8yzpL3u-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kGgEO_SU46H8N8yzpL3u-22" value="主观能动性&lt;div&gt;尽可能的延申&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="270" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kGgEO_SU46H8N8yzpL3u-25" value="如何留住基建玩家？" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="460" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kGgEO_SU46H8N8yzpL3u-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kGgEO_SU46H8N8yzpL3u-26" target="kGgEO_SU46H8N8yzpL3u-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kGgEO_SU46H8N8yzpL3u-26" value="如何避免策略战斗玩家被基建恶心到？" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="460" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kGgEO_SU46H8N8yzpL3u-27" value="蓝图&lt;div&gt;策略有用&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="650" y="70" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kGgEO_SU46H8N8yzpL3u-29" value="&lt;div&gt;链接商业化&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="660" y="345" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kGgEO_SU46H8N8yzpL3u-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="kGgEO_SU46H8N8yzpL3u-30" target="kGgEO_SU46H8N8yzpL3u-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kGgEO_SU46H8N8yzpL3u-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kGgEO_SU46H8N8yzpL3u-30" target="kGgEO_SU46H8N8yzpL3u-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kGgEO_SU46H8N8yzpL3u-30" value="角色基建技能&lt;div&gt;的就业环境&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="400" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
