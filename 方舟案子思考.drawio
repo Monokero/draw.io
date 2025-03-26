@@ -372,6 +372,9 @@
         <mxCell id="AUtjhlDqdxDyBtAkLGqu-37" value="&lt;div&gt;&lt;b&gt;全服世界任务&lt;/b&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1923.69" y="-980" width="143.25" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="AUtjhlDqdxDyBtAkLGqu-38" value="&lt;b&gt;玩卡牌的角色&lt;/b&gt;&lt;br&gt;&lt;div&gt;普攻抽卡&lt;/div&gt;&lt;div&gt;左肩键消耗最左侧相同卡牌&lt;/div&gt;&lt;div&gt;右肩键消耗最右侧相同卡牌&lt;/div&gt;&lt;div&gt;三色卡牌触发不同技能&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="-810" width="210" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
