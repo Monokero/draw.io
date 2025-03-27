@@ -309,10 +309,10 @@
         <mxCell id="FDc-59-8ZBCOkhqRoac4-22" value="终级&lt;div&gt;非物质奖励&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1960" y="-157.5" width="70.63" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="AUtjhlDqdxDyBtAkLGqu-1" value="&lt;b&gt;即时压力&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="AUtjhlDqdxDyBtAkLGqu-1" value="&lt;b&gt;即时压力&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="1674.25" y="-1052.5" width="165.75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AUtjhlDqdxDyBtAkLGqu-2" value="&lt;b&gt;自驱压力&lt;/b&gt;&lt;br&gt;&lt;div&gt;视频冲榜&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="AUtjhlDqdxDyBtAkLGqu-2" value="&lt;b&gt;自驱压力&lt;/b&gt;&lt;br&gt;&lt;div&gt;视频冲榜&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="1674.25" y="-947.5" width="165.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AUtjhlDqdxDyBtAkLGqu-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="AUtjhlDqdxDyBtAkLGqu-3" target="388vTkkMdeMJTLY4A_z5-22" edge="1">
@@ -374,10 +374,10 @@
         <mxCell id="AUtjhlDqdxDyBtAkLGqu-11" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="AUtjhlDqdxDyBtAkLGqu-31" vertex="1">
           <mxGeometry x="113" width="30" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="AUtjhlDqdxDyBtAkLGqu-36" value="&lt;div&gt;&lt;b&gt;地区任务&lt;/b&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="AUtjhlDqdxDyBtAkLGqu-36" value="&lt;div&gt;&lt;b&gt;地区任务&lt;/b&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="1924" y="-1042.5" width="143.25" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AUtjhlDqdxDyBtAkLGqu-37" value="&lt;div&gt;&lt;b&gt;全服世界任务&lt;/b&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="AUtjhlDqdxDyBtAkLGqu-37" value="&lt;div&gt;&lt;b&gt;全服世界任务&lt;/b&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="1923.69" y="-980" width="143.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AUtjhlDqdxDyBtAkLGqu-38" value="&lt;b&gt;玩卡牌的角色&lt;/b&gt;&lt;br&gt;&lt;div&gt;普攻抽卡&lt;/div&gt;&lt;div&gt;左肩键消耗最左侧相同卡牌&lt;/div&gt;&lt;div&gt;右肩键消耗最右侧相同卡牌&lt;/div&gt;&lt;div&gt;三色卡牌触发不同技能&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
