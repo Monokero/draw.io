@@ -25,7 +25,7 @@
           <mxGeometry x="10" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kGgEO_SU46H8N8yzpL3u-3" value="为什么要有多路线&lt;div&gt;开放世界游戏的核心——自由&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="810" y="-696" width="180" height="40" as="geometry" />
+          <mxGeometry x="781.63" y="-696" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kGgEO_SU46H8N8yzpL3u-4" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[科技树解锁资源]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;既可以挑战高难基建获得&lt;/div&gt;&lt;div&gt;又可以去探索大世界获得&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="770" y="230" width="150" height="60" as="geometry" />
@@ -116,19 +116,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pUG2tHhP4DYLu4sSkxo_-1" value="摆完挂机体验复刻" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="10" y="-935" width="120" height="50" as="geometry" />
+          <mxGeometry x="10" y="-1046.5" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pUG2tHhP4DYLu4sSkxo_-2" value="自动吸引仇恨&lt;div&gt;自动抗伤格挡&lt;/div&gt;&lt;div&gt;自动远程输出治疗&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="200" y="-940" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="-1051.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="388vTkkMdeMJTLY4A_z5-1" value="强环境因素影响下的基建题目" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="10" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="388vTkkMdeMJTLY4A_z5-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="388vTkkMdeMJTLY4A_z5-2" target="388vTkkMdeMJTLY4A_z5-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="388vTkkMdeMJTLY4A_z5-2" value="终末地&lt;div&gt;矛盾&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="30" y="-708.5" width="100" height="65" as="geometry" />
+          <mxGeometry x="200" y="-708.5" width="100" height="65" as="geometry" />
         </mxCell>
         <mxCell id="388vTkkMdeMJTLY4A_z5-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="388vTkkMdeMJTLY4A_z5-4" target="kGgEO_SU46H8N8yzpL3u-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -142,11 +139,11 @@
         <mxCell id="388vTkkMdeMJTLY4A_z5-9" value="泛动作玩家的&lt;b&gt;高品质战斗体验需要&lt;/b&gt;&lt;div&gt;与&lt;/div&gt;&lt;div&gt;&lt;b&gt;策略性战斗&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1194.25" y="-1010" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="388vTkkMdeMJTLY4A_z5-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="388vTkkMdeMJTLY4A_z5-11" target="kGgEO_SU46H8N8yzpL3u-13" edge="1">
+        <mxCell id="388vTkkMdeMJTLY4A_z5-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="388vTkkMdeMJTLY4A_z5-2" target="kGgEO_SU46H8N8yzpL3u-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="388vTkkMdeMJTLY4A_z5-11" value="工厂模拟&lt;div&gt;与&lt;/div&gt;&lt;div&gt;即时战斗&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="146" y="-706" width="210" height="60" as="geometry" />
+          <mxGeometry x="205" y="-653" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E2V_wxRTV4U5y0q80jQ0-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kGgEO_SU46H8N8yzpL3u-13" target="E2V_wxRTV4U5y0q80jQ0-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -172,8 +169,8 @@
         <mxCell id="388vTkkMdeMJTLY4A_z5-27" value="&lt;b&gt;社区类成就&lt;/b&gt;&lt;div&gt;可短时间限定&lt;br&gt;&lt;div&gt;全服首杀奖励，必爆满词条奖励（DayOne）&lt;/div&gt;&lt;/div&gt;&lt;div&gt;隐性表现（分数、社区视频播放量）&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="2055.75" y="-170" width="293.25" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="388vTkkMdeMJTLY4A_z5-30" value="&lt;div&gt;&lt;b&gt;思考&lt;/b&gt;&lt;/div&gt;是否可以将即时战斗和工厂建造的体验互相迁移呢？&lt;div&gt;例：圣兽之王&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="280" y="-1060" width="160" height="80" as="geometry" />
+        <mxCell id="388vTkkMdeMJTLY4A_z5-30" value="&lt;div&gt;&lt;b&gt;思考&lt;/b&gt;&lt;/div&gt;是否可以将&lt;div&gt;即时战斗和工厂建造的体验&lt;/div&gt;&lt;div&gt;互相迁移呢？&lt;div&gt;例：圣兽之王&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="280" y="-1169" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="388vTkkMdeMJTLY4A_z5-31" value="低耐心" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1270.25" y="-1070" width="70" height="50" as="geometry" />
@@ -187,7 +184,7 @@
           <mxGeometry x="2800" y="-609" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="388vTkkMdeMJTLY4A_z5-33" value="&lt;div&gt;TeamRPG&lt;/div&gt;&lt;div&gt;主T、输出、奶妈&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="350" y="-935" width="100" height="50" as="geometry" />
+          <mxGeometry x="210" y="-997.5" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AUtjhlDqdxDyBtAkLGqu-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="388vTkkMdeMJTLY4A_z5-34" target="AUtjhlDqdxDyBtAkLGqu-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -302,7 +299,7 @@
           <mxGeometry x="1960" y="-157.5" width="70.63" height="45" as="geometry" />
         </mxCell>
         <mxCell id="AUtjhlDqdxDyBtAkLGqu-1" value="&lt;b&gt;即时压力&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1674.25" y="-1052.5" width="143.25" height="40" as="geometry" />
+          <mxGeometry x="1674.25" y="-1052.5" width="165.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AUtjhlDqdxDyBtAkLGqu-2" value="&lt;b&gt;自驱压力&lt;/b&gt;&lt;br&gt;&lt;div&gt;视频冲榜&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1674.25" y="-947.5" width="165.75" height="40" as="geometry" />
@@ -373,7 +370,7 @@
           <mxGeometry x="1923.69" y="-980" width="143.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AUtjhlDqdxDyBtAkLGqu-38" value="&lt;b&gt;玩卡牌的角色&lt;/b&gt;&lt;br&gt;&lt;div&gt;普攻抽卡&lt;/div&gt;&lt;div&gt;左肩键消耗最左侧相同卡牌&lt;/div&gt;&lt;div&gt;右肩键消耗最右侧相同卡牌&lt;/div&gt;&lt;div&gt;三色卡牌触发不同技能&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="10" y="-1052.5" width="210" height="90" as="geometry" />
+          <mxGeometry x="10" y="-1164" width="210" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
