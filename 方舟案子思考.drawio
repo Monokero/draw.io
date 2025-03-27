@@ -366,7 +366,7 @@
           <mxGeometry x="100" y="50" width="60" height="63" as="geometry" />
         </mxCell>
         <mxCell id="AUtjhlDqdxDyBtAkLGqu-11" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="AUtjhlDqdxDyBtAkLGqu-31" vertex="1">
-          <mxGeometry x="111" width="30" height="59" as="geometry" />
+          <mxGeometry x="113" width="30" height="59" as="geometry" />
         </mxCell>
         <mxCell id="AUtjhlDqdxDyBtAkLGqu-36" value="&lt;div&gt;&lt;b&gt;地区任务&lt;/b&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1924" y="-1042.5" width="143.25" height="40" as="geometry" />
