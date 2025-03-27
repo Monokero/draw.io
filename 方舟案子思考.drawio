@@ -98,7 +98,7 @@
           <mxGeometry x="1453.25" y="-1020" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kGgEO_SU46H8N8yzpL3u-27" value="&lt;b&gt;时间、操作成本&lt;/b&gt;&lt;div&gt;蓝图&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1229.25" y="-345.5" width="140" height="40" as="geometry" />
+          <mxGeometry x="1229.25" y="-344.5" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kGgEO_SU46H8N8yzpL3u-29" value="&lt;div&gt;落实到商业化&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="660" y="405" width="100" height="50" as="geometry" />
@@ -164,7 +164,7 @@
           <mxGeometry x="1674.25" y="-817" width="166.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="388vTkkMdeMJTLY4A_z5-24" value="&lt;b&gt;获取信息成本&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1229.25" y="-444.5" width="140" height="40" as="geometry" />
+          <mxGeometry x="1229.25" y="-443.5" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="388vTkkMdeMJTLY4A_z5-27" value="&lt;b&gt;社区类成就&lt;/b&gt;&lt;div&gt;可短时间限定&lt;br&gt;&lt;div&gt;全服首杀奖励，必爆满词条奖励（DayOne）&lt;/div&gt;&lt;/div&gt;&lt;div&gt;隐性表现（分数、社区视频播放量）&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="2055.75" y="-170" width="293.25" height="70" as="geometry" />
@@ -204,8 +204,8 @@
         <mxCell id="AUtjhlDqdxDyBtAkLGqu-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="E2V_wxRTV4U5y0q80jQ0-3" target="AUtjhlDqdxDyBtAkLGqu-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E2V_wxRTV4U5y0q80jQ0-3" value="&lt;b&gt;降低成本&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="-394.5" width="143.25" height="40" as="geometry" />
+        <mxCell id="E2V_wxRTV4U5y0q80jQ0-3" value="&lt;b&gt;降低成本&lt;/b&gt;&lt;br&gt;&lt;div&gt;进入新玩法的成本&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1010" y="-393.5" width="143.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FDc-59-8ZBCOkhqRoac4-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="E2V_wxRTV4U5y0q80jQ0-4" target="E2V_wxRTV4U5y0q80jQ0-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -217,7 +217,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E2V_wxRTV4U5y0q80jQ0-4" value="&lt;b&gt;玩家转化&lt;/b&gt;&lt;div&gt;怎么丝滑入坑&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="800" y="-500" width="143.25" height="40" as="geometry" />
+          <mxGeometry x="800" y="-394" width="143.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E2V_wxRTV4U5y0q80jQ0-5" value="反应不行的策略来补&lt;div&gt;策略不行的反应来补&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1221.75" y="-955" width="155" height="50" as="geometry" />
@@ -247,7 +247,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E2V_wxRTV4U5y0q80jQ0-15" value="我想换&lt;div&gt;可以随时换&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="630" y="-520" width="120" height="80" as="geometry" />
+          <mxGeometry x="630" y="-414" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="E2V_wxRTV4U5y0q80jQ0-21" value="提升角色“需求”" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="2620" y="-598.5" width="120" height="80" as="geometry" />
@@ -266,8 +266,8 @@
         <mxCell id="FDc-59-8ZBCOkhqRoac4-2" value="&lt;b&gt;非强制&lt;/b&gt;&lt;div&gt;怎么圈地自萌&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="800" y="-887.5" width="143.25" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FDc-59-8ZBCOkhqRoac4-13" value="&lt;b&gt;避免损耗&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="-216" width="143.25" height="40" as="geometry" />
+        <mxCell id="FDc-59-8ZBCOkhqRoac4-13" value="&lt;b&gt;避免损耗&lt;/b&gt;&lt;div&gt;离开原玩法的损耗&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1010" y="-155" width="143.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FDc-59-8ZBCOkhqRoac4-16" value="&lt;b&gt;普及化成就&lt;/b&gt;&lt;br&gt;&lt;div&gt;易获得、可限定&lt;/div&gt;&lt;div&gt;显性表现&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="2130.62" y="-330" width="143.5" height="50" as="geometry" />
@@ -345,10 +345,10 @@
           <mxGeometry x="1624.25" y="-545" width="130" height="45" as="geometry" />
         </mxCell>
         <mxCell id="AUtjhlDqdxDyBtAkLGqu-26" value="&lt;b&gt;处理信息成本&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1229.25" y="-395" width="140" height="40" as="geometry" />
+          <mxGeometry x="1229.25" y="-394" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AUtjhlDqdxDyBtAkLGqu-31" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="781.62" y="-450" width="160.38" height="199" as="geometry" />
+          <mxGeometry x="781.62" y="-344" width="160.38" height="199" as="geometry" />
         </mxCell>
         <mxCell id="AUtjhlDqdxDyBtAkLGqu-8" value="工厂&lt;div&gt;玩法&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;verticalAlign=top;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="AUtjhlDqdxDyBtAkLGqu-31" vertex="1">
           <mxGeometry x="20" y="30" width="120" height="150" as="geometry" />
