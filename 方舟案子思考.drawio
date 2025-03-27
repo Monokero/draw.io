@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.3">
   <diagram name="第 1 页" id="RhZ9GITMeFinJcavsqx3">
-    <mxGraphModel dx="1319" dy="1969" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1538" dy="2102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -131,13 +131,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="388vTkkMdeMJTLY4A_z5-4" value="工厂模拟玩家的&lt;b&gt;内容需要&lt;/b&gt;&lt;div&gt;与&lt;/div&gt;&lt;div&gt;手游体量、&lt;b&gt;更新周期&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1194.25" y="-780" width="210" height="60" as="geometry" />
+          <mxGeometry x="1195.25" y="-780" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="388vTkkMdeMJTLY4A_z5-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="388vTkkMdeMJTLY4A_z5-9" target="kGgEO_SU46H8N8yzpL3u-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="388vTkkMdeMJTLY4A_z5-9" value="泛动作玩家的&lt;b&gt;高品质战斗体验需要&lt;/b&gt;&lt;div&gt;与&lt;/div&gt;&lt;div&gt;&lt;b&gt;策略性战斗&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1194.25" y="-1010" width="210" height="60" as="geometry" />
+          <mxGeometry x="1195.25" y="-1010" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="388vTkkMdeMJTLY4A_z5-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="388vTkkMdeMJTLY4A_z5-2" target="kGgEO_SU46H8N8yzpL3u-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -173,7 +173,7 @@
           <mxGeometry x="280" y="-1169" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="388vTkkMdeMJTLY4A_z5-31" value="低耐心" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1194.25" y="-1060" width="65.75" height="47.5" as="geometry" />
+          <mxGeometry x="1195.25" y="-1060" width="65.75" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="E2V_wxRTV4U5y0q80jQ0-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="388vTkkMdeMJTLY4A_z5-32" target="E2V_wxRTV4U5y0q80jQ0-21" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -187,19 +187,39 @@
           <mxGeometry x="210" y="-997.5" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AUtjhlDqdxDyBtAkLGqu-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="388vTkkMdeMJTLY4A_z5-34" target="AUtjhlDqdxDyBtAkLGqu-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1180" y="-613" />
+              <mxPoint x="1180" y="-669" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="388vTkkMdeMJTLY4A_z5-34" value="&lt;b&gt;提升引力&lt;/b&gt;&lt;div&gt;展现乐趣&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1010" y="-633" width="143.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FDc-59-8ZBCOkhqRoac4-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="E2V_wxRTV4U5y0q80jQ0-3" target="388vTkkMdeMJTLY4A_z5-24" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1180" y="-373" />
+              <mxPoint x="1180" y="-423" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="FDc-59-8ZBCOkhqRoac4-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="E2V_wxRTV4U5y0q80jQ0-3" target="kGgEO_SU46H8N8yzpL3u-27" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1180" y="-373" />
+              <mxPoint x="1180" y="-324" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="FDc-59-8ZBCOkhqRoac4-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="388vTkkMdeMJTLY4A_z5-34" target="FDc-59-8ZBCOkhqRoac4-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1180" y="-613" />
+              <mxPoint x="1180" y="-559" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="AUtjhlDqdxDyBtAkLGqu-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="E2V_wxRTV4U5y0q80jQ0-3" target="AUtjhlDqdxDyBtAkLGqu-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -220,10 +240,10 @@
           <mxGeometry x="800" y="-394" width="143.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E2V_wxRTV4U5y0q80jQ0-5" value="反应不行的策略来补&lt;div&gt;策略不行的反应来补&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1221.75" y="-955" width="155" height="50" as="geometry" />
+          <mxGeometry x="1222.75" y="-955" width="155" height="50" as="geometry" />
         </mxCell>
         <mxCell id="E2V_wxRTV4U5y0q80jQ0-10" value="期望闪避的本质&lt;div&gt;是希望战斗更加可控&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1264.25" y="-1060" width="135.75" height="50" as="geometry" />
+          <mxGeometry x="1265.25" y="-1060" width="135.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="E2V_wxRTV4U5y0q80jQ0-12" value="&lt;div&gt;&lt;b&gt;涌现式教学&lt;/b&gt;&lt;/div&gt;自我“发现/发明”的技巧&lt;div&gt;“学习”起来最容易&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1881" y="-752" width="140" height="80" as="geometry" />
