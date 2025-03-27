@@ -378,7 +378,7 @@
           <mxGeometry x="10" y="-1164" width="210" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5tWnUjiXpmPEqrFiMMBF-5" value="&lt;div&gt;无损失，才可以不玩&lt;/div&gt;&lt;b&gt;通用奖励&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="990" y="-1139" width="163.25" height="40" as="geometry" />
+          <mxGeometry x="990" y="-1160" width="163.25" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
