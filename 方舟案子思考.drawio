@@ -252,8 +252,8 @@
         <mxCell id="E2V_wxRTV4U5y0q80jQ0-21" value="提升角色“需求”" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="2620" y="-598.5" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FDc-59-8ZBCOkhqRoac4-1" value="&lt;div&gt;&lt;b&gt;注意！&lt;/b&gt;&lt;/div&gt;如有战斗，应是自动化程度较高的战斗！" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#FF3333;" parent="1" vertex="1">
-          <mxGeometry x="1754.25" y="-886" width="140" height="80" as="geometry" />
+        <mxCell id="FDc-59-8ZBCOkhqRoac4-1" value="&lt;div&gt;&lt;b&gt;注意！&lt;/b&gt;&lt;/div&gt;如有战斗&lt;div&gt;应自动化程度较高！&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#FF3333;" parent="1" vertex="1">
+          <mxGeometry x="1750" y="-880" width="190" height="74" as="geometry" />
         </mxCell>
         <mxCell id="FDc-59-8ZBCOkhqRoac4-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FDc-59-8ZBCOkhqRoac4-2" target="E2V_wxRTV4U5y0q80jQ0-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
