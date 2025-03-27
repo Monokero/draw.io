@@ -377,7 +377,7 @@
         <mxCell id="AUtjhlDqdxDyBtAkLGqu-38" value="&lt;b&gt;玩卡牌的角色&lt;/b&gt;&lt;br&gt;&lt;div&gt;普攻抽卡&lt;/div&gt;&lt;div&gt;左肩键消耗最左侧相同卡牌&lt;/div&gt;&lt;div&gt;右肩键消耗最右侧相同卡牌&lt;/div&gt;&lt;div&gt;三色卡牌触发不同技能&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="10" y="-1164" width="210" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="5tWnUjiXpmPEqrFiMMBF-5" value="&lt;div&gt;无损失，才可以不玩&lt;/div&gt;&lt;b&gt;复玩性&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="5tWnUjiXpmPEqrFiMMBF-5" value="&lt;div&gt;无损失，才可以不玩&lt;/div&gt;&lt;b&gt;通用奖励&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="990" y="-1139" width="163.25" height="40" as="geometry" />
         </mxCell>
       </root>
