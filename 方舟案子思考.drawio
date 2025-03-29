@@ -406,6 +406,12 @@
         <mxCell id="5tWnUjiXpmPEqrFiMMBF-5" value="&lt;div&gt;无损失，才可以不玩&lt;/div&gt;&lt;b&gt;通用奖励&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="990" y="-1160" width="163.25" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="vLFAJ5T3AQ4ThwBfww9g-2" value="&lt;div&gt;&lt;b&gt;注意！&lt;/b&gt;&lt;/div&gt;挑战的易读性也很重要！" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="1923.69" y="-854" width="180" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="vLFAJ5T3AQ4ThwBfww9g-3" value="蓝图拆解" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2330" y="-940" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
