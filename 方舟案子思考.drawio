@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.3">
   <diagram name="第 1 页" id="RhZ9GITMeFinJcavsqx3">
-    <mxGraphModel dx="1086" dy="1828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1538" dy="2102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -181,8 +181,8 @@
         <mxCell id="388vTkkMdeMJTLY4A_z5-31" value="低耐心" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1195.25" y="-1060" width="65.75" height="47.5" as="geometry" />
         </mxCell>
-        <mxCell id="388vTkkMdeMJTLY4A_z5-32" value="留住真单机玩家" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="2359" y="-930" width="171" height="60" as="geometry" />
+        <mxCell id="388vTkkMdeMJTLY4A_z5-32" value="留住工厂玩家" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="2359" y="-930" width="151" height="60" as="geometry" />
         </mxCell>
         <mxCell id="388vTkkMdeMJTLY4A_z5-33" value="&lt;div&gt;TeamRPG&lt;/div&gt;&lt;div&gt;主T、输出、奶妈&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="210" y="-997.5" width="100" height="50" as="geometry" />
@@ -293,7 +293,7 @@
         <mxCell id="FDc-59-8ZBCOkhqRoac4-2" value="&lt;b&gt;非强制&lt;/b&gt;&lt;div&gt;怎么圈地自萌&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="800" y="-1022.5" width="143.25" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FDc-59-8ZBCOkhqRoac4-13" value="？？？" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#FF3333;" parent="1" vertex="1">
+        <mxCell id="FDc-59-8ZBCOkhqRoac4-13" value="内容交叉" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1010" y="-155" width="143.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FDc-59-8ZBCOkhqRoac4-16" value="&lt;b&gt;普及化成就&lt;/b&gt;&lt;br&gt;&lt;div&gt;易获得、可限定&lt;/div&gt;&lt;div&gt;显性表现&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -389,7 +389,7 @@
         <mxCell id="AUtjhlDqdxDyBtAkLGqu-12" value="低成本" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;align=right;fillColor=#fff2cc;strokeColor=#d6b656;" parent="AUtjhlDqdxDyBtAkLGqu-31" vertex="1">
           <mxGeometry x="70.38" y="93" width="90" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="AUtjhlDqdxDyBtAkLGqu-13" value="？？？" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;align=right;fillColor=#e1d5e7;strokeColor=#9673a6;fontColor=#FF3333;" parent="AUtjhlDqdxDyBtAkLGqu-31" vertex="1">
+        <mxCell id="AUtjhlDqdxDyBtAkLGqu-13" value="内容&lt;div&gt;交叉&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;align=right;fillColor=#e1d5e7;strokeColor=#9673a6;fontColor=#000000;" parent="AUtjhlDqdxDyBtAkLGqu-31" vertex="1">
           <mxGeometry x="100" y="50" width="60" height="63" as="geometry" />
         </mxCell>
         <mxCell id="AUtjhlDqdxDyBtAkLGqu-11" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="AUtjhlDqdxDyBtAkLGqu-31" vertex="1">
@@ -434,14 +434,14 @@
         <mxCell id="IzjNbonutMWChrnKovWZ-7" value="&lt;b&gt;无&lt;/b&gt;强制角色需求" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="2170" y="-940" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IzjNbonutMWChrnKovWZ-9" value="&lt;div&gt;落实到商业化&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="IzjNbonutMWChrnKovWZ-9" value="&lt;div&gt;落实到商业化&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="2359" y="-840" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IzjNbonutMWChrnKovWZ-11" value="&lt;div&gt;&lt;b&gt;方案1&lt;/b&gt;&lt;/div&gt;&lt;div&gt;一次性基建策略&lt;/div&gt;节省越多，无需战斗越多&lt;div&gt;（比如召唤更多更强的自动防御塔）&lt;div&gt;极限：节省多，战斗多&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="2125" y="-1024" width="210" height="74" as="geometry" />
+        <mxCell id="IzjNbonutMWChrnKovWZ-11" value="&lt;div&gt;&lt;b&gt;方案1&lt;/b&gt;&lt;/div&gt;&lt;div&gt;一次性基建策略&lt;/div&gt;节省越多，无需战斗越多&lt;div&gt;（比如召唤更多更强的自动防御塔）&lt;div&gt;评分最高：节省多，战斗多&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="2125" y="-1040" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="IzjNbonutMWChrnKovWZ-12" value="&lt;div&gt;&lt;b&gt;方案2&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="2354.5" y="-1024" width="180" height="74" as="geometry" />
+          <mxGeometry x="2344" y="-1027" width="180" height="74" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
