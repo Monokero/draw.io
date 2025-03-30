@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.3">
   <diagram name="第 1 页" id="RhZ9GITMeFinJcavsqx3">
-    <mxGraphModel dx="1538" dy="2102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1538" dy="3271" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,24 +69,14 @@
         <mxCell id="kGgEO_SU46H8N8yzpL3u-22" value="满足代入者&lt;div&gt;自主权&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="630" y="-726" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="388vTkkMdeMJTLY4A_z5-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kGgEO_SU46H8N8yzpL3u-25" target="388vTkkMdeMJTLY4A_z5-23" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1620" y="-750" />
-              <mxPoint x="1620" y="-850" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="IzjNbonutMWChrnKovWZ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kGgEO_SU46H8N8yzpL3u-25" target="388vTkkMdeMJTLY4A_z5-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="388vTkkMdeMJTLY4A_z5-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kGgEO_SU46H8N8yzpL3u-25" target="388vTkkMdeMJTLY4A_z5-22" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1620" y="-750" />
-              <mxPoint x="1620" y="-712" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="IzjNbonutMWChrnKovWZ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kGgEO_SU46H8N8yzpL3u-25" target="388vTkkMdeMJTLY4A_z5-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kGgEO_SU46H8N8yzpL3u-25" value="如何满足基建玩家？" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1452.25" y="-780" width="120" height="60" as="geometry" />
+        <mxCell id="kGgEO_SU46H8N8yzpL3u-25" value="如何满足工厂玩家？" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1451.25" y="-848" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AUtjhlDqdxDyBtAkLGqu-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kGgEO_SU46H8N8yzpL3u-26" target="AUtjhlDqdxDyBtAkLGqu-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -95,7 +85,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kGgEO_SU46H8N8yzpL3u-26" value="如何满足泛动作玩家" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1453.25" y="-1020" width="120" height="80" as="geometry" />
+          <mxGeometry x="1449.87" y="-1340" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kGgEO_SU46H8N8yzpL3u-27" value="&lt;b&gt;时间、操作成本&lt;/b&gt;&lt;div&gt;蓝图&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1229.25" y="-344.5" width="140" height="40" as="geometry" />
@@ -131,13 +121,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="388vTkkMdeMJTLY4A_z5-4" value="工厂模拟玩家的&lt;b&gt;内容需要&lt;/b&gt;&lt;div&gt;与&lt;/div&gt;&lt;div&gt;手游体量、&lt;b&gt;更新周期&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1195.25" y="-780" width="210" height="60" as="geometry" />
+          <mxGeometry x="1194.25" y="-848" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="388vTkkMdeMJTLY4A_z5-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="388vTkkMdeMJTLY4A_z5-9" target="kGgEO_SU46H8N8yzpL3u-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="388vTkkMdeMJTLY4A_z5-9" value="泛动作玩家的&lt;b&gt;高品质战斗体验需要&lt;/b&gt;&lt;div&gt;与&lt;/div&gt;&lt;div&gt;&lt;b&gt;策略性战斗&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1195.25" y="-1010" width="210" height="60" as="geometry" />
+          <mxGeometry x="1194.25" y="-1330" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="388vTkkMdeMJTLY4A_z5-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="388vTkkMdeMJTLY4A_z5-2" target="kGgEO_SU46H8N8yzpL3u-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -160,14 +150,14 @@
         <mxCell id="388vTkkMdeMJTLY4A_z5-22" value="&lt;div&gt;&lt;b&gt;拓展广度&lt;/b&gt;&lt;/div&gt;大世界小工厂谜题&lt;div&gt;另类基建技巧教学（神庙）&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1674.25" y="-742" width="166.75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IzjNbonutMWChrnKovWZ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="388vTkkMdeMJTLY4A_z5-23" target="IzjNbonutMWChrnKovWZ-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="IzjNbonutMWChrnKovWZ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="388vTkkMdeMJTLY4A_z5-23" target="IzjNbonutMWChrnKovWZ-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="IzjNbonutMWChrnKovWZ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="388vTkkMdeMJTLY4A_z5-23" target="IzjNbonutMWChrnKovWZ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="388vTkkMdeMJTLY4A_z5-23" value="&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;拓展&lt;/b&gt;&lt;b&gt;深度&lt;/b&gt;&lt;/div&gt;高难挑战式" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1674.25" y="-880" width="166.75" height="60" as="geometry" />
+          <mxGeometry x="1674.25" y="-982.5" width="166.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="388vTkkMdeMJTLY4A_z5-24" value="&lt;b&gt;获取信息成本&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1229.25" y="-443.5" width="140" height="40" as="geometry" />
@@ -179,10 +169,10 @@
           <mxGeometry x="280" y="-1169" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="388vTkkMdeMJTLY4A_z5-31" value="低耐心" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1195.25" y="-1060" width="65.75" height="47.5" as="geometry" />
+          <mxGeometry x="1191.87" y="-1380" width="65.75" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="388vTkkMdeMJTLY4A_z5-32" value="留住工厂玩家" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="2359" y="-930" width="151" height="60" as="geometry" />
+          <mxGeometry x="2358.81" y="-838" width="151" height="60" as="geometry" />
         </mxCell>
         <mxCell id="388vTkkMdeMJTLY4A_z5-33" value="&lt;div&gt;TeamRPG&lt;/div&gt;&lt;div&gt;主T、输出、奶妈&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="210" y="-997.5" width="100" height="50" as="geometry" />
@@ -241,22 +231,22 @@
           <mxGeometry x="800" y="-394" width="143.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E2V_wxRTV4U5y0q80jQ0-5" value="反应不行的策略来补&lt;div&gt;策略不行的反应来补&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1222.75" y="-955" width="155" height="50" as="geometry" />
+          <mxGeometry x="1219.37" y="-1275" width="155" height="50" as="geometry" />
         </mxCell>
         <mxCell id="E2V_wxRTV4U5y0q80jQ0-10" value="期望闪避的本质&lt;div&gt;是希望战斗更加可控&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1265.25" y="-1060" width="135.75" height="50" as="geometry" />
+          <mxGeometry x="1261.87" y="-1380" width="135.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="E2V_wxRTV4U5y0q80jQ0-12" value="&lt;div&gt;&lt;b&gt;涌现式教学&lt;/b&gt;&lt;/div&gt;自我“发现/发明”的技巧&lt;div&gt;“学习”起来最容易&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1881" y="-752" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AUtjhlDqdxDyBtAkLGqu-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="E2V_wxRTV4U5y0q80jQ0-13" target="388vTkkMdeMJTLY4A_z5-9" edge="1">
+        <mxCell id="IzjNbonutMWChrnKovWZ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E2V_wxRTV4U5y0q80jQ0-13" target="388vTkkMdeMJTLY4A_z5-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AUtjhlDqdxDyBtAkLGqu-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="E2V_wxRTV4U5y0q80jQ0-13" target="388vTkkMdeMJTLY4A_z5-4" edge="1">
+        <mxCell id="IzjNbonutMWChrnKovWZ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E2V_wxRTV4U5y0q80jQ0-13" target="388vTkkMdeMJTLY4A_z5-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E2V_wxRTV4U5y0q80jQ0-13" value="&lt;div&gt;有得玩，才可以不想&lt;/div&gt;&lt;b&gt;复玩性&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="990" y="-888" width="163.25" height="40" as="geometry" />
+          <mxGeometry x="990" y="-953" width="163.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FDc-59-8ZBCOkhqRoac4-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="E2V_wxRTV4U5y0q80jQ0-14" target="FDc-59-8ZBCOkhqRoac4-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -280,7 +270,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E2V_wxRTV4U5y0q80jQ0-21" value="&lt;b&gt;提升&lt;/b&gt;角色“需求”" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="2170" y="-849.5" width="120" height="80" as="geometry" />
+          <mxGeometry x="2170.31" y="-1126.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FDc-59-8ZBCOkhqRoac4-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FDc-59-8ZBCOkhqRoac4-2" target="E2V_wxRTV4U5y0q80jQ0-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -331,10 +321,10 @@
           <mxGeometry x="1960" y="-157.5" width="70.63" height="45" as="geometry" />
         </mxCell>
         <mxCell id="AUtjhlDqdxDyBtAkLGqu-1" value="&lt;b&gt;即时压力&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="1674.25" y="-1052.5" width="165.75" height="40" as="geometry" />
+          <mxGeometry x="1670.87" y="-1372.5" width="165.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AUtjhlDqdxDyBtAkLGqu-2" value="&lt;b&gt;自驱压力&lt;/b&gt;&lt;br&gt;&lt;div&gt;视频冲榜&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="1674.25" y="-947.5" width="165.75" height="40" as="geometry" />
+          <mxGeometry x="1670.87" y="-1267.5" width="165.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AUtjhlDqdxDyBtAkLGqu-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="AUtjhlDqdxDyBtAkLGqu-3" target="388vTkkMdeMJTLY4A_z5-22" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -396,46 +386,46 @@
           <mxGeometry x="113" width="30" height="59" as="geometry" />
         </mxCell>
         <mxCell id="AUtjhlDqdxDyBtAkLGqu-36" value="&lt;div&gt;&lt;b&gt;地区任务&lt;/b&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="1924" y="-1042.5" width="143.25" height="40" as="geometry" />
+          <mxGeometry x="2030.63" y="-724" width="143.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AUtjhlDqdxDyBtAkLGqu-37" value="&lt;div&gt;&lt;b&gt;全服世界任务&lt;/b&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="1923.69" y="-980" width="143.25" height="40" as="geometry" />
+          <mxGeometry x="2030.63" y="-709" width="143.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AUtjhlDqdxDyBtAkLGqu-38" value="&lt;b&gt;玩卡牌的角色&lt;/b&gt;&lt;br&gt;&lt;div&gt;普攻抽卡&lt;/div&gt;&lt;div&gt;左肩键消耗最左侧相同卡牌&lt;/div&gt;&lt;div&gt;右肩键消耗最右侧相同卡牌&lt;/div&gt;&lt;div&gt;三色卡牌触发不同技能&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="10" y="-1164" width="210" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5tWnUjiXpmPEqrFiMMBF-5" value="&lt;div&gt;无损失，才可以不玩&lt;/div&gt;&lt;b&gt;通用奖励&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="990" y="-1160" width="163.25" height="40" as="geometry" />
+          <mxGeometry x="990" y="-1530" width="163.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vLFAJ5T3AQ4ThwBfww9g-2" value="&lt;div&gt;&lt;b&gt;注意！&lt;/b&gt;&lt;/div&gt;挑战的易读性也很重要！" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="2633.69" y="-1100" width="146.31" height="74" as="geometry" />
         </mxCell>
         <mxCell id="vLFAJ5T3AQ4ThwBfww9g-3" value="蓝图拆解" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2340" y="-1154" width="120" height="80" as="geometry" />
+          <mxGeometry x="2820" y="-1275" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IzjNbonutMWChrnKovWZ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IzjNbonutMWChrnKovWZ-1" target="IzjNbonutMWChrnKovWZ-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IzjNbonutMWChrnKovWZ-1" value="&lt;div&gt;高建设能力↓&lt;/div&gt;&lt;div&gt;&lt;b&gt;自动化战斗&lt;/b&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1912.25" y="-930" width="166.75" height="60" as="geometry" />
+          <mxGeometry x="1912.25" y="-838" width="166.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IzjNbonutMWChrnKovWZ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IzjNbonutMWChrnKovWZ-3" target="E2V_wxRTV4U5y0q80jQ0-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IzjNbonutMWChrnKovWZ-3" value="&lt;div&gt;高战斗能力↓&lt;/div&gt;&lt;div&gt;&lt;b&gt;策略战斗+&lt;/b&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1911.94" y="-840" width="166.75" height="60" as="geometry" />
+          <mxGeometry x="1912.25" y="-1117" width="166.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IzjNbonutMWChrnKovWZ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IzjNbonutMWChrnKovWZ-7" target="388vTkkMdeMJTLY4A_z5-32">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2460" y="-916" as="sourcePoint" />
-            <mxPoint x="2529" y="-916" as="targetPoint" />
+            <mxPoint x="2460" y="-824" as="sourcePoint" />
+            <mxPoint x="2529" y="-824" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IzjNbonutMWChrnKovWZ-7" value="&lt;b&gt;无&lt;/b&gt;强制角色需求" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="2170" y="-940" width="120" height="80" as="geometry" />
+          <mxGeometry x="2170" y="-848" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IzjNbonutMWChrnKovWZ-9" value="&lt;div&gt;落实到商业化&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2359" y="-840" width="150" height="60" as="geometry" />
+          <mxGeometry x="2359.31" y="-1117" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IzjNbonutMWChrnKovWZ-11" value="&lt;div&gt;&lt;b&gt;方案1&lt;/b&gt;&lt;/div&gt;&lt;div&gt;一次性基建策略&lt;/div&gt;节省越多，无需战斗越多&lt;div&gt;（比如召唤更多更强的自动防御塔）&lt;div&gt;评分最高：节省多，战斗多&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="2125" y="-1040" width="210" height="100" as="geometry" />
