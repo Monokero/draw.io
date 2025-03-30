@@ -177,16 +177,14 @@
         <mxCell id="388vTkkMdeMJTLY4A_z5-33" value="&lt;div&gt;TeamRPG&lt;/div&gt;&lt;div&gt;主T、输出、奶妈&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="210" y="-997.5" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AUtjhlDqdxDyBtAkLGqu-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="388vTkkMdeMJTLY4A_z5-34" target="AUtjhlDqdxDyBtAkLGqu-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1180" y="-613" />
-              <mxPoint x="1180" y="-669" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="IzjNbonutMWChrnKovWZ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="388vTkkMdeMJTLY4A_z5-34" target="AUtjhlDqdxDyBtAkLGqu-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IzjNbonutMWChrnKovWZ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="388vTkkMdeMJTLY4A_z5-34" target="FDc-59-8ZBCOkhqRoac4-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="388vTkkMdeMJTLY4A_z5-34" value="&lt;b&gt;提升引力&lt;/b&gt;&lt;div&gt;展现乐趣&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="-633" width="143.25" height="40" as="geometry" />
+          <mxGeometry x="1010" y="-653" width="143.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FDc-59-8ZBCOkhqRoac4-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="E2V_wxRTV4U5y0q80jQ0-3" target="388vTkkMdeMJTLY4A_z5-24" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -201,14 +199,6 @@
             <Array as="points">
               <mxPoint x="1180" y="-373" />
               <mxPoint x="1180" y="-324" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FDc-59-8ZBCOkhqRoac4-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="388vTkkMdeMJTLY4A_z5-34" target="FDc-59-8ZBCOkhqRoac4-17" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1180" y="-613" />
-              <mxPoint x="1180" y="-559" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -326,16 +316,11 @@
         <mxCell id="AUtjhlDqdxDyBtAkLGqu-2" value="&lt;b&gt;自驱压力&lt;/b&gt;&lt;br&gt;&lt;div&gt;视频冲榜&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="1670.87" y="-1267.5" width="165.75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AUtjhlDqdxDyBtAkLGqu-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="AUtjhlDqdxDyBtAkLGqu-3" target="388vTkkMdeMJTLY4A_z5-22" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1410" y="-669" />
-              <mxPoint x="1410" y="-712" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="IzjNbonutMWChrnKovWZ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AUtjhlDqdxDyBtAkLGqu-3" target="388vTkkMdeMJTLY4A_z5-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AUtjhlDqdxDyBtAkLGqu-3" value="&lt;b&gt;增加曝光/体验渠道&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1229.25" y="-689" width="140" height="40" as="geometry" />
+          <mxGeometry x="1229.25" y="-732" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AUtjhlDqdxDyBtAkLGqu-6" value="&lt;div&gt;&lt;b&gt;功能奖励&lt;/b&gt;&lt;/div&gt;&lt;div&gt;随机自动完成部分每日&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1624.25" y="-652.5" width="130" height="45" as="geometry" />
@@ -397,8 +382,8 @@
         <mxCell id="5tWnUjiXpmPEqrFiMMBF-5" value="&lt;div&gt;无损失，才可以不玩&lt;/div&gt;&lt;b&gt;通用奖励&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="990" y="-1530" width="163.25" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vLFAJ5T3AQ4ThwBfww9g-2" value="&lt;div&gt;&lt;b&gt;注意！&lt;/b&gt;&lt;/div&gt;挑战的易读性也很重要！" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#FF3333;" parent="1" vertex="1">
-          <mxGeometry x="2633.69" y="-1100" width="146.31" height="74" as="geometry" />
+        <mxCell id="vLFAJ5T3AQ4ThwBfww9g-2" value="&lt;div&gt;&lt;b&gt;注意&lt;/b&gt;&lt;/div&gt;挑战的易读性也很重要！" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#FF3333;" parent="1" vertex="1">
+          <mxGeometry x="1922.47" y="-890" width="146.31" height="74" as="geometry" />
         </mxCell>
         <mxCell id="vLFAJ5T3AQ4ThwBfww9g-3" value="蓝图拆解" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2820" y="-1275" width="120" height="80" as="geometry" />
