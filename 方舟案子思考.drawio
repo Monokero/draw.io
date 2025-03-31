@@ -391,6 +391,12 @@
         <mxCell id="vLFAJ5T3AQ4ThwBfww9g-3" value="蓝图拆解" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2820" y="-1275" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Zw7rPswDUgd0rZtzK5H7-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="IzjNbonutMWChrnKovWZ-1" target="IzjNbonutMWChrnKovWZ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zw7rPswDUgd0rZtzK5H7-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="IzjNbonutMWChrnKovWZ-1" target="Zw7rPswDUgd0rZtzK5H7-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IzjNbonutMWChrnKovWZ-1" value="&lt;div&gt;高建设能力↓&lt;/div&gt;&lt;div&gt;&lt;b&gt;自动化战斗&lt;/b&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1912.25" y="-868" width="166.75" height="60" as="geometry" />
         </mxCell>
@@ -402,24 +408,24 @@
         </mxCell>
         <mxCell id="IzjNbonutMWChrnKovWZ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="IzjNbonutMWChrnKovWZ-7" target="388vTkkMdeMJTLY4A_z5-32" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2725" y="-824" as="sourcePoint" />
-            <mxPoint x="2794" y="-824" as="targetPoint" />
+            <mxPoint x="2985" y="-854" as="sourcePoint" />
+            <mxPoint x="3054" y="-854" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IzjNbonutMWChrnKovWZ-9" value="&lt;div&gt;落实到收入&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="2359.31" y="-1153" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IzjNbonutMWChrnKovWZ-11" value="&lt;div&gt;&lt;b&gt;方案1 - 一次性解谜（造桥模拟器）&lt;/b&gt;&lt;/div&gt;&lt;div&gt;（战前工厂、战中塔防）&lt;/div&gt;节省越多，无需战斗越多&lt;div&gt;（召唤更多更强的自动防御塔）&lt;div&gt;评分最高：节省多，战斗多&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="IzjNbonutMWChrnKovWZ-11" value="&lt;div&gt;&lt;b&gt;方案1 - 造桥模拟器类&lt;/b&gt;&lt;/div&gt;&lt;div&gt;（战前工厂、战中塔防）&lt;/div&gt;节省越多，无需战斗越多&lt;div&gt;（召唤更多更强的自动防御塔）&lt;div&gt;评分最高：节省多，战斗多&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="2210" y="-962" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="388vTkkMdeMJTLY4A_z5-32" value="落实到破圈" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="2623.81" y="-838" width="151" height="60" as="geometry" />
+          <mxGeometry x="2883.81" y="-868" width="151" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IzjNbonutMWChrnKovWZ-7" value="&lt;b&gt;无&lt;/b&gt;强制角色需求" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="2420" y="-848" width="120" height="80" as="geometry" />
+          <mxGeometry x="2680" y="-878" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Zw7rPswDUgd0rZtzK5H7-1" value="&lt;div&gt;&lt;b&gt;方案2 -&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;（战前工厂、战中塔防）&lt;/div&gt;节省越多，无需战斗越多&lt;div&gt;（召唤更多更强的自动防御塔）&lt;div&gt;评分最高：节省多，战斗多&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="2110.31" y="-818" width="210" height="100" as="geometry" />
+        <mxCell id="Zw7rPswDUgd0rZtzK5H7-1" value="&lt;div&gt;&lt;b&gt;方案2 - 战斗工坊类&lt;/b&gt;&lt;/div&gt;&lt;div&gt;（战前工厂、战中塔防）&lt;/div&gt;节省越多，无需战斗越多&lt;div&gt;（召唤更多更强的自动防御塔）&lt;div&gt;评分最高：节省多，战斗多&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2210" y="-815" width="210" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
