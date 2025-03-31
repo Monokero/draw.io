@@ -255,7 +255,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E2V_wxRTV4U5y0q80jQ0-14" value="我不想玩&lt;div&gt;可以不玩&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="630" y="-1230.5" width="120" height="80" as="geometry" />
+          <mxGeometry x="630" y="-1295.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FDc-59-8ZBCOkhqRoac4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="E2V_wxRTV4U5y0q80jQ0-15" target="E2V_wxRTV4U5y0q80jQ0-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -281,7 +281,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FDc-59-8ZBCOkhqRoac4-2" value="&lt;b&gt;非强制&lt;/b&gt;&lt;div&gt;怎么圈地自萌&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="800" y="-1210.5" width="143.25" height="40" as="geometry" />
+          <mxGeometry x="800" y="-1275.5" width="143.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Zw7rPswDUgd0rZtzK5H7-45" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="FDc-59-8ZBCOkhqRoac4-13" target="Zw7rPswDUgd0rZtzK5H7-43">
           <mxGeometry relative="1" as="geometry" />
