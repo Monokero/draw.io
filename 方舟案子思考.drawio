@@ -147,7 +147,7 @@
         <mxCell id="AUtjhlDqdxDyBtAkLGqu-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="E2V_wxRTV4U5y0q80jQ0-3" target="AUtjhlDqdxDyBtAkLGqu-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E2V_wxRTV4U5y0q80jQ0-3" value="&lt;b&gt;降低成本&lt;/b&gt;&lt;br&gt;&lt;div&gt;进入新玩法的成本&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="E2V_wxRTV4U5y0q80jQ0-3" value="&lt;b&gt;降低成本&lt;/b&gt;&lt;br&gt;&lt;div&gt;零难入坑&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1010" y="-393.5" width="143.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FDc-59-8ZBCOkhqRoac4-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="E2V_wxRTV4U5y0q80jQ0-4" target="E2V_wxRTV4U5y0q80jQ0-3" edge="1">
@@ -420,7 +420,7 @@
         <mxCell id="Zw7rPswDUgd0rZtzK5H7-38" value="&lt;b&gt;战中&lt;/b&gt;&lt;div&gt;高效率挂机型塔&lt;/div&gt;&lt;div&gt;（自动战斗）&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="2460" y="-882" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Zw7rPswDUgd0rZtzK5H7-43" value="&lt;b&gt;多思路解题&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="Zw7rPswDUgd0rZtzK5H7-43" value="&lt;b&gt;多渠道解题&lt;/b&gt;&lt;div&gt;战斗 or 工厂 or 战+工&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1229.25" y="-192.5" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Zw7rPswDUgd0rZtzK5H7-44" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
