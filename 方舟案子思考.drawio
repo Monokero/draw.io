@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.3">
   <diagram name="第 1 页" id="RhZ9GITMeFinJcavsqx3">
-    <mxGraphModel dx="1319" dy="3209" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1538" dy="3355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,13 +47,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pUG2tHhP4DYLu4sSkxo_-1" value="摆完挂机体验复刻" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="10" y="-1589" width="120" height="50" as="geometry" />
+          <mxGeometry x="2660" y="-1374" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pUG2tHhP4DYLu4sSkxo_-2" value="自动吸引仇恨&lt;div&gt;自动抗伤格挡&lt;/div&gt;&lt;div&gt;自动远程输出治疗&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="200" y="-1594" width="120" height="60" as="geometry" />
+          <mxGeometry x="2850" y="-1379" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="388vTkkMdeMJTLY4A_z5-1" value="强环境因素影响下的基建题目" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="440" y="-1590" width="120" height="60" as="geometry" />
+          <mxGeometry x="3090" y="-1375" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="388vTkkMdeMJTLY4A_z5-2" value="终末地&lt;div&gt;矛盾&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="267" y="-830.5" width="100" height="65" as="geometry" />
@@ -108,7 +108,7 @@
           <mxGeometry x="1229.25" y="-443.5" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="388vTkkMdeMJTLY4A_z5-27" value="&lt;b&gt;社区类成就&lt;/b&gt;&lt;div&gt;可短时间限定&lt;br&gt;&lt;div&gt;全服首杀奖励，必爆满词条奖励（DayOne）&lt;/div&gt;&lt;/div&gt;&lt;div&gt;隐性表现（分数、社区视频播放量）&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="2055.75" y="-170" width="293.25" height="70" as="geometry" />
+          <mxGeometry x="2955.75" y="-243.5" width="293.25" height="70" as="geometry" />
         </mxCell>
         <mxCell id="388vTkkMdeMJTLY4A_z5-30" value="&lt;div&gt;&lt;b&gt;思考&lt;/b&gt;&lt;/div&gt;是否可以将&lt;div&gt;即时战斗和工厂建造的体验&lt;/div&gt;&lt;div&gt;互相迁移呢？&lt;div&gt;例：圣兽之王&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1672.6299999999999" y="-1371" width="170" height="100" as="geometry" />
@@ -117,7 +117,7 @@
           <mxGeometry x="1191.87" y="-1380" width="65.75" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="388vTkkMdeMJTLY4A_z5-33" value="&lt;div&gt;TeamRPG&lt;/div&gt;&lt;div&gt;主T、输出、奶妈&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="210" y="-1540" width="100" height="50" as="geometry" />
+          <mxGeometry x="2860" y="-1325" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IzjNbonutMWChrnKovWZ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="388vTkkMdeMJTLY4A_z5-34" target="AUtjhlDqdxDyBtAkLGqu-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -225,7 +225,7 @@
           <mxGeometry x="1010" y="-155" width="143.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FDc-59-8ZBCOkhqRoac4-16" value="&lt;b&gt;普及化成就&lt;/b&gt;&lt;br&gt;&lt;div&gt;易获得、可限定&lt;/div&gt;&lt;div&gt;显性表现&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="2130.62" y="-330" width="143.5" height="50" as="geometry" />
+          <mxGeometry x="3030.62" y="-403.5" width="143.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AUtjhlDqdxDyBtAkLGqu-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FDc-59-8ZBCOkhqRoac4-17" target="AUtjhlDqdxDyBtAkLGqu-15" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -247,16 +247,16 @@
           <mxGeometry x="1229.25" y="-579" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FDc-59-8ZBCOkhqRoac4-18" value="&lt;b&gt;白金类成就&lt;/b&gt;&lt;br&gt;&lt;div&gt;较高挑战、可限定&lt;/div&gt;&lt;div&gt;浅隐性表现（蚀刻章）&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="2087.37" y="-250" width="230" height="50" as="geometry" />
+          <mxGeometry x="2987.37" y="-323.5" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FDc-59-8ZBCOkhqRoac4-20" value="中级&lt;div&gt;非物质奖励&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1960" y="-247.5" width="70.63" height="45" as="geometry" />
+          <mxGeometry x="2860" y="-321" width="70.63" height="45" as="geometry" />
         </mxCell>
         <mxCell id="FDc-59-8ZBCOkhqRoac4-21" value="初级&lt;div&gt;非物质奖励&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1960" y="-327.5" width="70.63" height="45" as="geometry" />
+          <mxGeometry x="2860" y="-401" width="70.63" height="45" as="geometry" />
         </mxCell>
         <mxCell id="FDc-59-8ZBCOkhqRoac4-22" value="终级&lt;div&gt;非物质奖励&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1960" y="-157.5" width="70.63" height="45" as="geometry" />
+          <mxGeometry x="2860" y="-231" width="70.63" height="45" as="geometry" />
         </mxCell>
         <mxCell id="AUtjhlDqdxDyBtAkLGqu-1" value="&lt;b&gt;即时压力&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="1820" y="-1616.5" width="165.75" height="40" as="geometry" />
@@ -325,7 +325,7 @@
           <mxGeometry x="2076.63" y="-709" width="143.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AUtjhlDqdxDyBtAkLGqu-38" value="&lt;b&gt;玩卡牌的角色&lt;/b&gt;&lt;br&gt;&lt;div&gt;普攻抽卡&lt;/div&gt;&lt;div&gt;左肩键消耗最左侧相同卡牌&lt;/div&gt;&lt;div&gt;右肩键消耗最右侧相同卡牌&lt;/div&gt;&lt;div&gt;三色卡牌触发不同技能&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="10" y="-1706.5" width="210" height="90" as="geometry" />
+          <mxGeometry x="2751" y="-1490" width="210" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5tWnUjiXpmPEqrFiMMBF-5" value="&lt;div&gt;无损失，才可以不玩&lt;/div&gt;&lt;b&gt;通用奖励&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="990" y="-1530" width="163.25" height="40" as="geometry" />
@@ -334,7 +334,7 @@
           <mxGeometry x="1640" y="-859" width="146.31" height="54" as="geometry" />
         </mxCell>
         <mxCell id="vLFAJ5T3AQ4ThwBfww9g-3" value="蓝图拆解" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="500" y="-1701.5" width="120" height="80" as="geometry" />
+          <mxGeometry x="3150" y="-1486.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Zw7rPswDUgd0rZtzK5H7-50" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="IzjNbonutMWChrnKovWZ-1" target="IzjNbonutMWChrnKovWZ-7">
           <mxGeometry relative="1" as="geometry" />
@@ -389,7 +389,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Zw7rPswDUgd0rZtzK5H7-21" value="&lt;b&gt;战中&lt;/b&gt;&lt;div&gt;高效率消耗型道具&lt;/div&gt;&lt;div&gt;（跳过战斗）&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="2460" y="-1141.87" width="120" height="80" as="geometry" />
+          <mxGeometry x="2497" y="-1141.87" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Zw7rPswDUgd0rZtzK5H7-34" value="&lt;div&gt;&lt;b&gt;方案1 - 造桥模拟器类&lt;/b&gt;&lt;/div&gt;&lt;div&gt;评分最高：节省多，战斗多&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1947" y="-1132" width="200" height="60" as="geometry" />
@@ -418,7 +418,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Zw7rPswDUgd0rZtzK5H7-38" value="&lt;b&gt;战中&lt;/b&gt;&lt;div&gt;高效率挂机型塔&lt;/div&gt;&lt;div&gt;（自动战斗）&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="2460" y="-882" width="120" height="80" as="geometry" />
+          <mxGeometry x="2497" y="-882" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Zw7rPswDUgd0rZtzK5H7-43" value="&lt;b&gt;多渠道解题&lt;/b&gt;&lt;div&gt;战斗 or 工厂 or 战+工&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1229.25" y="-192.5" width="140" height="40" as="geometry" />
